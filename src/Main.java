@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
         
-        int N = 4;
+        int N = 3;
 
         Game game = new Game(N);
         game.setRandom(100);
