@@ -1,4 +1,4 @@
-Astar algorithm implemented using a
+A* algorithm implemented using a
 PriorityQueue.java with manhattan distance
 priority function. 
 
